@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Quote &#8211; shayariworld</title>
-	<atom:link href="/https://developerdeep69.github.io/shayariworld/type/quote/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://developerdeep69.github.io/shayariworld</link>
+	<atom:link href="https://developerdeep69.github.io/shayariworld/type/quote/feed/" rel="self" type="application/rss+xml" />
+	<link>https://developerdeep69.github.io/shayariworld</link>
 	<description>Managed by Deep</description>
 	<lastBuildDate>Wed, 17 Feb 2021 18:51:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.6.1</generator>
 	<item>
 		<title>ShayariWorld</title>
-		<link>/https://developerdeep69.github.io/shayariworld/love-shayari/</link>
-					<comments>/https://developerdeep69.github.io/shayariworld/love-shayari/#respond</comments>
+		<link>https://developerdeep69.github.io/shayariworld/love-shayari/</link>
+					<comments>https://developerdeep69.github.io/shayariworld/love-shayari/#respond</comments>
 		
 		<dc:creator><![CDATA[deepak]]></dc:creator>
 		<pubDate>Sat, 19 Dec 2020 11:54:38 +0000</pubDate>
@@ -32,7 +32,7 @@
 		<category><![CDATA[quotes]]></category>
 		<category><![CDATA[sad quotes]]></category>
 		<category><![CDATA[shayari]]></category>
-		<guid isPermaLink="false">/https://developerdeep69.github.io/shayariworld/?p=5</guid>
+		<guid isPermaLink="false">https://developerdeep69.github.io/shayariworld/?p=5</guid>
 
 					<description><![CDATA[उजालो में चैन नहींमुझे थोड़ी रात भी चाहिएभूल जाऊ उसके खयालो कोमुझे वो बात भी चाहिए credit- &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -75,7 +75,7 @@
 <blockquote class="wp-block-quote"><p>बहुत याद आती है तेरी<br>पर तुझे आवाज न दूंगा<br>लिखूंगा हर शायरी तेरे लिए<br>पर तेरा नाम ना लूंगा</p></blockquote>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://developerdeep69.github.io/shayariworld/love-shayari/feed/</wfw:commentRss>
+					<wfw:commentRss>https://developerdeep69.github.io/shayariworld/love-shayari/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
