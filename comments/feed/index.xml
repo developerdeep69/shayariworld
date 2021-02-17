@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for shayariworld	</title>
+	<atom:link href="/https://developerdeep69.github.io/shayariworld/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://developerdeep69.github.io/shayariworld</link>
+	<description>Managed by Deep</description>
+	<lastBuildDate>Wed, 17 Feb 2021 10:27:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<item>
+		<title>
+		Comment on Shayari World by deepak		</title>
+		<link>/https://developerdeep69.github.io/shayariworld/promotion/#comment-2</link>
+
+		<dc:creator><![CDATA[deepak]]></dc:creator>
+		<pubDate>Mon, 21 Dec 2020 09:37:21 +0000</pubDate>
+		<guid isPermaLink="false">/https://developerdeep69.github.io/shayariworld/?page_id=19#comment-2</guid>
+
+					<description><![CDATA[nice]]></description>
+			<content:encoded><![CDATA[<p>nice</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

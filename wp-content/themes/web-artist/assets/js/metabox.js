@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("#web-artist-ui-tabs").tabs()});

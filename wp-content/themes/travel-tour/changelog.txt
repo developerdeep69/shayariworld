@@ -1,0 +1,65 @@
+= Changelog =
+
+Tested up to: 4.9.5
+
+
+
+
+= Version 2.0.2 =
+
+Release Date: Aug 30, 2018
+
+i)   Transalation file updated
+
+
+
+
+= Version 2.0.1 =
+
+Release Date: Aug 8, 2018
+
+i)   Major change in search plugin
+
+
+= Version 1.0.4 =
+
+Release Date: May 15, 2018
+
+i)   Recommended plugin added.
+ii)  Testimonial moved to homepage.
+
+
+
+
+= Version 1.0.3 =
+
+Release Date: May 14, 2018
+
+i)   Testimonials section added.
+ii)  CSS improvement for all section.
+
+
+
+
+= Version 1.0.2 =
+
+Release Date: May 6, 2018
+
+i)   Style updated
+
+
+
+= Version 1.0.1 =
+
+Release Date: April 30, 2018
+
+i) Re Upload
+
+
+
+
+= Version 1.0.0 =
+
+Release Date: April 26, 2018
+
+i) Intial version Release
